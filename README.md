@@ -1,7 +1,7 @@
 # Names-Generator
 ## simple app that generates random names form 20 differnt country.
 
-#### From Unites States:
+#### AS an example, generated names From Unites States:
 ![](screenshots/Names%20Generator%20US.png)
 
 #### From Egypt:
